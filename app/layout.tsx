@@ -2,9 +2,15 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "deepTech | Web Development & E-commerce Solutions",
+  title: "DeepTech | Web Development & E-commerce Solutions",
   description:
     "deepTech builds modern websites, e-commerce applications and scalable web solutions for businesses.",
+    keywords: [
+    "Next.js developer",
+    "React developer",
+    "web development",
+    "website development",
+  ],
 };
 
 export default function RootLayout({
