@@ -55,11 +55,11 @@ export default function Footer(){
 
             <div className="mt-4 space-y-3">
 
-              <p>📧 hello@jhatech.com</p>
+              <p>📧 hello@DeepTech.com</p>
 
               <p>📱 +91 XXXXX XXXXX</p>
 
-              <p>🌐 jhatech.com</p>
+              <p>🌐 DeepTech.com</p>
 
             </div>
 
@@ -71,7 +71,7 @@ export default function Footer(){
         <div className="border-t border-gray-800">
 
           <div className="mx-auto max-w-7xl px-6 py-6 text-center text-sm">
-            © 2026 JhaTech. All rights reserved.
+            © 2026 DeepTech. All rights reserved.
           </div>
 
         </div>

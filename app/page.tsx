@@ -44,7 +44,7 @@ export default function Home() {
           <div>
 
             <p className="font-semibold text-blue-600">
-              WHY JHATECH
+              WHY DeepTech
             </p>
 
             <h2 className="mt-3 text-3xl font-bold text-gray-900 md:text-4xl">
