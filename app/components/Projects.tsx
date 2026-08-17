@@ -48,7 +48,7 @@ export default function Project(){
                 <div className="flex h-52 items-center justify-center bg-gray-900">
 
                   <span className="text-4xl font-bold text-white">
-                    Jha<span className="text-blue-400">Tech</span>
+                    Deep<span className="text-blue-400">Tech</span>
                   </span>
 
                 </div>

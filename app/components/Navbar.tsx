@@ -21,7 +21,7 @@ export default function Navbar() {
             onClick={closeMenu}
             className="text-2xl font-bold text-gray-900"
           >
-            Jha<span className="text-blue-600">Tech</span>
+            Deep<span className="text-blue-600">Tech</span>
           </a>
 
           {/* Desktop Menu */}
