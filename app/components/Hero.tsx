@@ -20,7 +20,7 @@ export default function Hero(){
             </h1>
 
             <p className="mt-6 max-w-xl text-lg leading-8 text-gray-600">
-              DeepTech helps businesses build modern websites, e-commerce
+              Codivio helps businesses build modern websites, e-commerce
               platforms and powerful web applications using modern
               technologies.
             </p>

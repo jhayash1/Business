@@ -35,10 +35,10 @@ export async function POST(req) {
     await transporter.sendMail({
       from: process.env.EMAIL_USER,
       to: process.env.EMAIL_USER,
-      subject: `New DeepTech Lead - ${projectType || "Website"}`,
+      subject: `New Codivio Lead - ${projectType || "Website"}`,
 
       html: `
-        <h2>New DeepTech Contact</h2>
+        <h2>New Codivio Contact</h2>
 
         <p>
           <strong>Name:</strong> ${name}

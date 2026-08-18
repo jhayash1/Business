@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About Us | deepTech",
-  description: "Learn more about deepTech and our web development services.",
+  title: "About Us | Codivio",
+  description: "Learn more about Codivio and our web development services.",
 };
 export default function AboutPage(){
     return(
@@ -13,7 +13,7 @@ export default function AboutPage(){
           <div>
 
             <p className="font-semibold text-blue-600">
-              WHY DeepTech
+              WHY Codivio
             </p>
 
             <h2 className="mt-3 text-3xl font-bold text-gray-900 md:text-4xl">
