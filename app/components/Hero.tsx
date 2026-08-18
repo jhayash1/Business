@@ -4,7 +4,7 @@ export default function Hero(){
         id="home"
         className="bg-gradient-to-br from-blue-50 via-white to-indigo-50"
       >
-        <div className="mx-auto grid max-w-7xl items-center gap-12 px-6 py-24 md:grid-cols-2 md:py-32">
+        <div className="mx-auto grid max-w-7xl items-center gap-12 px-6 py-20 md:grid-cols-2 md:py-18">
 
           <div>
 

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import WhatsAppButton from "./components/Whatsapp";
 
 export const metadata: Metadata = {
   title: "DeepTech | Web Development & E-commerce Solutions",
@@ -20,7 +21,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>{children}
+        <WhatsAppButton/>
+      </body>
     </html>
   );
 }
